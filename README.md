@@ -10,5 +10,5 @@ Interactive Interface: Users can upload a CSV file and interact with the chatbot
 #### Dynamic Styling: JavaScript is employed to dynamically style the Gradio button for an enhanced user experience.
 
 ### Technologies Used:
-Gradio: Simplifies the creation of interactive interfaces for machine learning models.
-Pandas: Handles the data processing and manipulation tasks.
+1) Gradio: Simplifies the creation of interactive interfaces for machine learning models.
+2) Pandas: Handles the data processing and manipulation tasks.
